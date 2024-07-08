@@ -171,6 +171,9 @@
 .header__enter__two span {
     display: flex;
 }
+.header__nav a nav{
+color: black;
+}
 @media screen and (max-width: 768px) {
     .header__nav {
         display: none;
